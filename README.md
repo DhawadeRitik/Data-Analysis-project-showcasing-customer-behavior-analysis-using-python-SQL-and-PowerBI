@@ -66,7 +66,7 @@
 
 1. **Clone the repository**:  
    ```bash
-   git clone <repository_link>
+   git clone <git clone https://github.com/DhawadeRitik/Data-Analysis-project-showcasing-customer-behavior-analysis-using-python-SQL-and-PowerBI.git>
 
 
 
