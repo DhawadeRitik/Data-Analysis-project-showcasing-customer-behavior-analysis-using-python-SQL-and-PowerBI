@@ -1,92 +1,73 @@
-Customer Behavior Analysis Project
-Overview
+# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
 
-This project analyzes customer behavior and sales patterns to generate actionable insights. It covers data loading, cleaning, exploratory data analysis (EDA), SQL queries, and visualization using Power BI. The insights are summarized in a report and presented as a professional presentation using Gamma.
+### This project is perfect for:
 
-Tools & Technologies
+- 📊 **Data Analyst aspirants** who want to build a strong portfolio project for interviews and LinkedIn  
+- 📚 Anyone learning **Python, SQL, and Power BI**  
+- 💼 Professionals preparing for interviews in **Data Analytics, Data Science, or Product Analytics** roles
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+---
 
-MySQL: Querying and aggregating customer and sales data
+## 🛠 Tools & Technologies
 
-Power BI: Interactive dashboards and visualizations
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
+- **MySQL**: Data extraction and analysis using SQL queries  
+- **Power BI**: Interactive dashboards and visualizations  
+- **Gamma**: Professional presentation creation  
+- **Jupyter Notebook / VS Code**: Development environment  
 
-Gamma: Creating professional presentations
+---
 
-Jupyter Notebook / VS Code: Development environment
+## 🚀 Project Steps
 
-Project Steps
+### 1️⃣ Loading Data
+- Imported datasets from CSV/Excel using Python (`pandas`).  
+- Connected to **MySQL server** to load customer and sales data.  
 
-Loading Data
+### 2️⃣ Data Cleaning
+- Handled **missing values, duplicates, and inconsistent data**.  
+- Corrected data types and treated outliers.  
 
-Imported CSV/Excel datasets into Python using pandas.
+### 3️⃣ Exploratory Data Analysis (EDA)
+- Conducted **descriptive statistics and profiling**.  
+- Visualized **customer purchase trends, correlations, and distributions** using Matplotlib and Seaborn.  
 
-Connected to MySQL server to load and query data.
+### 4️⃣ SQL Analysis
+- Executed SQL queries in MySQL to extract insights:  
+  - Top customers by spend  
+  - Impact of discounts on sales  
+  - Product category trends and inventory analysis  
 
-Data Cleaning
-
-Checked for missing or duplicate values.
-
-Corrected data types and handled inconsistencies.
-
-Exploratory Data Analysis (EDA)
-
-Performed statistical summaries and distribution analysis.
-
-Visualized trends, correlations, and patterns using Matplotlib/Seaborn.
-
-SQL Analysis
-
-Wrote SQL queries in MySQL to extract insights, e.g.,
-
-High-value customers
-
-Discount impact on sales
-
-Product category trends
-
-Dashboard Creation
-
-Built an interactive Power BI dashboard to visualize:
-
-Customer purchase patterns
-
-Sales trends over time
-
-Product and discount performance
-
-Reporting & Presentation
-
-Summarized insights in a professional report.
-
-Created a clean, structured presentation in Gamma for stakeholders.
-
-Results & Insights
-
-Identified top-spending customers and loyal segments.
-
-Analyzed the effect of discounts on purchase behavior.
-
-Visualized trends in product sales and inventory requirements.
-
-Dashboard and report provide actionable recommendations for business strategies.
-
-How to Run
-
-Clone the repository:
-
-git clone <repository_link>
+### 5️⃣ Dashboard Creation
+- Built an interactive **Power BI dashboard** showing:  
+  - Customer purchase patterns and segments  
+  - Monthly/weekly sales trends  
+  - Product performance and discount impact
+ 
+  - <img width="1157" height="693" alt="image" src="https://github.com/user-attachments/assets/20532cd3-6fa4-4a01-b42f-3fa08c6cb0bc" />
 
 
-Install required Python packages:
+### 6️⃣ Reporting & Presentation
+- Created a detailed **report summarizing insights** and recommendations.  
+- Designed a **professional Gamma presentation** with structured visuals and key findings.  
 
-pip install -r requirements.txt
+---
+
+## 📊 Results & Insights
+
+- Identified **top-spending and loyal customers**.  
+- Evaluated the **effect of discounts** on purchase behavior.  
+- Highlighted **best-selling products and inventory needs**.  
+- Delivered actionable business recommendations via **dashboard and report**.  
+
+---
+
+## ⚡ How to Run
+
+1. **Clone the repository**:  
+   ```bash
+   git clone <repository_link>
 
 
-Open the Jupyter Notebook to run the Python scripts for data cleaning and EDA.
 
-Connect to MySQL server to execute SQL queries.
-
-Open Power BI file (.pbix) to explore the dashboard.
-
-Review the Gamma presentation for summarized insights.
+   
